@@ -17,6 +17,10 @@ According to the temperature and pressure gradients, there are irradiance fluctu
 ALPHA-MU DISTRIBUTION:
 The fading model for the α-μ distribution considers a signal composed of clusters of multipath waves propagating in a non-homogeneous environment. Within any one cluster, the phases of the scattered waves are random and have similar delay times with delay-time spreads of different clusters being relatively large. The clusters of multipath waves are assumed to have the scattered waves with identical powers. The resulting envelope is obtained as a nonlinear function of the modulus of the sum of the multipath components. Such a non-linearity is manifested in terms of a power parameter, so that the resulting signal intensity is obtained not simply as the modulus of the sum of the multipath components, but as this modulus to a certain given exponent.
 
+for full understanding  follow the report:
+
+https://drive.google.com/file/d/1RBTyNSbwSWS1vmr6BQRax4w0PyzkwaW0/view?usp=sharing
+
 OUTAGE PROBABLITY (OP):
 The availability of an FSO channel can be described by its outage probability, Pout. This is a particularly significant metric for any wireless link since it represents the probability that the instantaneous SNR at the receiver’s input falls below a critical threshold, 𝛾𝑡h, which corresponds to the receiver’s sensitivity limit.
 𝑃 =𝑃𝑟(𝛾≤𝛾 )=𝐹(𝛾 )
