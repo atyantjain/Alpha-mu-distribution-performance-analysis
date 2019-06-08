@@ -1,6 +1,8 @@
 # Alpha-mu-distribution-performance-analysis
 This repository contains codes about the performance analysis of the Alpha-mu distribution channel model in free space optical communication
 
+THE CODES ARE MUPAD CODES TO BE RUN IN MATLAB
+
 Abreviations:
 OP = outage probablity
 CAV = Average Channel capacity
@@ -22,3 +24,5 @@ The availability of an FSO channel can be described by its outage probability, P
 AVERAGE CHANNEL CAPACITY (CAV):
 The average, or ergodic, capacity of a channel represents the mean achievable capacity of a common link. More specifically, it is the magnitude which corresponds to the real – practical – upper bound of the data that can propagate through the channel for the specific FSO link and atmospheric conditions for the cases of fast fading statistics. The average capacity 𝐶𝑎𝑣, of an FSO communication link, assuming that the propagating path is an AWGN channel, is given by:
 𝐶 = ∫∞𝐵 log (1+(𝜂𝐼)2)𝑓(𝐼)𝑑𝐼
+
+USING THIS INFORMATION THE CAV AND OP FOR ALPHA-MU WERE DERIVED AND SIMULATED ON MATLAB-MUPAD USING THE ATTACHED CODES.
